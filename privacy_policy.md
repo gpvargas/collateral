@@ -3,7 +3,7 @@
 *Last modified: November 11, 2017*
 
 
-This privacy policy was created to explain how **Collateral ("the application")** collects, uses and protects information you provide during your use. Such information is used to provide, maintain and personalize certain features to improve your user experience. This privacy policy may be updated or modified at any time without prior notice. Please review this privacy policy periodically and especially before you provide any information.
+This privacy policy was created to explain how [**Collateral ("the application")**](https://play.google.com/store/apps/details?id=com.gpvargas.collateral) collects, uses and protects information you provide during your use. Such information is used to provide, maintain and personalize certain features to improve your user experience. This privacy policy may be updated or modified at any time without prior notice. Please review this privacy policy periodically and especially before you provide any information.
 
 
 ### How Collateral collects and uses your information
